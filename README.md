@@ -2,6 +2,11 @@
 
 Diceware-py is a Python package that generates strong and secure passwords using the Diceware method. This package uses the word list from the Electronic Frontier Foundation (EFF) and the `secrets` module in Python to randomly choose words from the list.
 
+## Requirements
+
+* Python 3.x
+* secrets package
+
 ## Installation
 
 1. Clone the repository to your local machine.
