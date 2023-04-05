@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import secrets
 import sys
 
@@ -30,3 +31,4 @@ def main():
             print("Sorry, there was an issue generating your password.")
             exit()
 main()
+
